@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.png" alt="DocuMind Hero Banner" width="100%"/>
-
 # 📄 DocuMind
 
 ### AI-Powered Document Intelligence on Oracle Cloud
@@ -20,6 +18,10 @@ Upload documents, websites, and images. Ask questions in natural language. Get g
 ![Built With OCI](https://img.shields.io/badge/Built%20With-Oracle%20Cloud-red)
 
 <br/>
+
+
+<img src="banner.png" alt="DocuMind Hero Banner" width="100%"/>
+
 
 ### 🚀 Transform Static Documents into Intelligent Conversations
 
