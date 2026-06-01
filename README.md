@@ -6,6 +6,9 @@
 
 Upload documents, websites, and images. Ask questions in natural language. Get grounded answers instantly.
 
+
+<img src="banner.png" alt="DocuMind Hero Banner" width="100%"/>
+
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -19,8 +22,6 @@ Upload documents, websites, and images. Ask questions in natural language. Get g
 
 <br/>
 
-
-<img src="banner.png" alt="DocuMind Hero Banner" width="100%"/>
 
 
 ### 🚀 Transform Static Documents into Intelligent Conversations
